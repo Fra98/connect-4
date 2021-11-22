@@ -1,0 +1,233 @@
+A TURN -> 4
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - A - - - 
+
+B TURN -> 4
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - B - - - 
+- - - A - - - 
+
+A TURN -> 4
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - A - - - 
+- - - B - - - 
+- - - A - - - 
+
+B TURN -> 3
+- - - - - - - 
+- - - - - - - 
+- - - - - - - 
+- - - A - - - 
+- - - B - - - 
+- - B A - - - 
+
+A TURN -> 4
+- - - - - - - 
+- - - - - - - 
+- - - A - - - 
+- - - A - - - 
+- - - B - - - 
+- - B A - - - 
+
+B TURN -> 6
+- - - - - - - 
+- - - - - - - 
+- - - A - - - 
+- - - A - - - 
+- - - B - - - 
+- - B A - B - 
+
+A TURN -> 3
+- - - - - - - 
+- - - - - - - 
+- - - A - - - 
+- - - A - - - 
+- - A B - - - 
+- - B A - B - 
+
+B TURN -> 4
+- - - - - - - 
+- - - B - - - 
+- - - A - - - 
+- - - A - - - 
+- - A B - - - 
+- - B A - B - 
+
+A TURN -> 3
+- - - - - - - 
+- - - B - - - 
+- - - A - - - 
+- - A A - - - 
+- - A B - - - 
+- - B A - B - 
+
+B TURN -> 3
+- - - - - - - 
+- - - B - - - 
+- - B A - - - 
+- - A A - - - 
+- - A B - - - 
+- - B A - B - 
+
+A TURN -> 1
+- - - - - - - 
+- - - B - - - 
+- - B A - - - 
+- - A A - - - 
+- - A B - - - 
+A - B A - B - 
+
+B TURN -> 6
+- - - - - - - 
+- - - B - - - 
+- - B A - - - 
+- - A A - - - 
+- - A B - B - 
+A - B A - B - 
+
+A TURN -> 4
+- - - A - - - 
+- - - B - - - 
+- - B A - - - 
+- - A A - - - 
+- - A B - B - 
+A - B A - B - 
+
+B TURN -> 7
+- - - A - - - 
+- - - B - - - 
+- - B A - - - 
+- - A A - - - 
+- - A B - B - 
+A - B A - B B 
+
+A TURN -> 3
+- - - A - - - 
+- - A B - - - 
+- - B A - - - 
+- - A A - - - 
+- - A B - B - 
+A - B A - B B 
+
+B TURN -> 7
+- - - A - - - 
+- - A B - - - 
+- - B A - - - 
+- - A A - - - 
+- - A B - B B 
+A - B A - B B 
+
+A TURN -> 6
+- - - A - - - 
+- - A B - - - 
+- - B A - - - 
+- - A A - A - 
+- - A B - B B 
+A - B A - B B 
+
+B TURN -> 3
+- - B A - - - 
+- - A B - - - 
+- - B A - - - 
+- - A A - A - 
+- - A B - B B 
+A - B A - B B 
+
+A TURN -> 6
+- - B A - - - 
+- - A B - - - 
+- - B A - A - 
+- - A A - A - 
+- - A B - B B 
+A - B A - B B 
+
+B TURN -> 6
+- - B A - - - 
+- - A B - B - 
+- - B A - A - 
+- - A A - A - 
+- - A B - B B 
+A - B A - B B 
+
+A TURN -> 1
+- - B A - - - 
+- - A B - B - 
+- - B A - A - 
+- - A A - A - 
+A - A B - B B 
+A - B A - B B 
+
+B TURN -> 7
+- - B A - - - 
+- - A B - B - 
+- - B A - A - 
+- - A A - A B 
+A - A B - B B 
+A - B A - B B 
+
+A TURN -> 7
+- - B A - - - 
+- - A B - B - 
+- - B A - A A 
+- - A A - A B 
+A - A B - B B 
+A - B A - B B 
+
+B TURN -> 6
+- - B A - B - 
+- - A B - B - 
+- - B A - A A 
+- - A A - A B 
+A - A B - B B 
+A - B A - B B 
+
+A TURN -> 2
+- - B A - B - 
+- - A B - B - 
+- - B A - A A 
+- - A A - A B 
+A - A B - B B 
+A A B A - B B 
+
+B TURN -> 2
+- - B A - B - 
+- - A B - B - 
+- - B A - A A 
+- - A A - A B 
+A B A B - B B 
+A A B A - B B 
+
+A TURN -> 2
+- - B A - B - 
+- - A B - B - 
+- - B A - A A 
+- A A A - A B 
+A B A B - B B 
+A A B A - B B 
+
+B TURN -> 5
+- - B A - B - 
+- - A B - B - 
+- - B A - A A 
+- A A A - A B 
+A B A B - B B 
+A A B A B B B 
+
+A TURN -> 1
+- - B A - B - 
+- - A B - B - 
+- - B A - A A 
+A A A A - A B 
+A B A B - B B 
+A A B A B B B 
+
+Player A WON
